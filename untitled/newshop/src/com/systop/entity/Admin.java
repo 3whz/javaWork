@@ -2,10 +2,10 @@ package com.systop.entity;
 
 public class Admin {
 
-	private int aId;			
-	private String account;		
-	private String adminpass;	
-	private String ip;
+	private int aId;//管理员地址
+	private String account;		//账号
+	private String adminpass;	//密码
+	private String ip;//ip
 	
 	
 	public String getIp() {

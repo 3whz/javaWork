@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hagen_dazs/hagen_dazs.iml" filepath="$PROJECT_DIR$/hagen_dazs/hagen_dazs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hagen_dazst/hagen_dazst.iml" filepath="$PROJECT_DIR$/hagen_dazst/hagen_dazst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newshop/newshop.iml" filepath="$PROJECT_DIR$/newshop/newshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newtest/newtest.iml" filepath="$PROJECT_DIR$/newtest/newtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
